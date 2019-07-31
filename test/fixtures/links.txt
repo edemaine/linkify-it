@@ -190,6 +190,15 @@ http://example.com/123
 
 http://example.com/foo--bar
 
+_http://example.com
+http://example.com
+
+_//example.com
+//example.com
+
+_example.com
+example.com
+
 % some sites have links with trailing dashes
 http://www.bloomberg.com/news/articles/2015-06-26/from-deutsche-bank-to-siemens-what-s-troubling-germany-inc-
 
